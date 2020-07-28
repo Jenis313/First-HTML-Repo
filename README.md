@@ -1,2 +1,2 @@
-# First-HTML-Repo
+# First-Repo
 This is my first repo
